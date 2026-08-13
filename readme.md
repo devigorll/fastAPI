@@ -5,6 +5,8 @@
  O projeto foi construído acompanhando a playlist/curso **[Curso de FastAPI - REST API com Python (Backend Completo)](https://www.youtube.com/playlist?list=PLpdAy0tYrnKy3TvpCT-x7kGqMQ5grk1Xq)** ministrado pelo canal **Hashtag Programação**.
  
  ---
+
+ > Projeto em desenvolvimento
  
  ## 📌 Objetivo do Projeto & Estudos
  

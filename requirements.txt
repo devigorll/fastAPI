@@ -1,0 +1,24 @@
+# Framework principal da API
+fastapi>=0.110.0
+
+# Servidor ASGI para execução da aplicação
+uvicorn>=0.28.0
+
+# ORM e Mapeamento de Banco de Dados
+sqlalchemy>=2.0.0
+
+# Criptografia e Hashing Seguro de Senhas
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.0.0
+
+# Autenticação, Criptografia e Gerenciamento de Tokens JWT
+python-jose[cryptography]>=3.3.0
+cryptography>=42.0.0
+
+# Gerenciamento de Variáveis de Ambiente (.env)
+python-dotenv>=1.0.0
+
+# Suporte a Formulários e Dados Multipart (Login/Auth)
+python-multipart>=0.0.9
+
+bcrypt>= 5.0.0
